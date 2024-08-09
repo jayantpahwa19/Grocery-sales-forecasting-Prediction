@@ -44,6 +44,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-You can adjust specific details such as dataset description, model performance, and additional features based on your project.
